@@ -7,8 +7,8 @@ Proyecto UTN - E-commerce React App
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/usuario/UTN-Project.git
-cd UTN-Project
+git clone https://github.com/Saturno0/Gen-T.git
+cd Project-GENT
 ```
 
 ### 2. Instalar dependencias
